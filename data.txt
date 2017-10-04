@@ -1,0 +1,3 @@
+Name: Laura
+Age: 30
+Favorite color: red
